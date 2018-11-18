@@ -1,0 +1,42 @@
+
+/* Class = "UILabel"; text = "(随打印机设置)"; ObjectID = "4Ep-7g-e8N"; */
+"4Ep-7g-e8N.text" = "(As printer setting)";
+
+/* Class = "UILabel"; text = "打印页数"; ObjectID = "4iv-Ut-PSQ"; */
+"4iv-Ut-PSQ.text" = "Print pages";
+
+/* Class = "UILabel"; text = "(1,2,3;1,2,3)"; ObjectID = "9Fl-aS-Mv9"; */
+"9Fl-aS-Mv9.text" = "(1,2,3;1,2,3)";
+
+/* Class = "UILabel"; text = "功能正在研发中, 敬请期待"; ObjectID = "C4h-rl-gRs"; */
+"C4h-rl-gRs.text" = "Under developing, please wait";
+
+/* Class = "UILabel"; text = "打印份数"; ObjectID = "KUx-up-hBd"; */
+"KUx-up-hBd.text" = "Print copies";
+
+/* Class = "UILabel"; text = "打印浓度"; ObjectID = "KYs-E0-xrS"; */
+"KYs-E0-xrS.text" = "Print concentration";
+
+/* Class = "UILabel"; text = "1"; ObjectID = "TCF-jK-Xpt"; */
+"TCF-jK-Xpt.text" = "1";
+
+/* Class = "UILabel"; text = "打印机"; ObjectID = "Y9p-Rs-VNR"; */
+"Y9p-Rs-VNR.text" = "Printer";
+
+/* Class = "UIButton"; normalTitle = "取消"; ObjectID = "c0o-rE-jYj"; */
+"c0o-rE-jYj.normalTitle" = "Cancel";
+
+/* Class = "UILabel"; text = "当前连接打印机"; ObjectID = "d7N-hc-h1V"; */
+"d7N-hc-h1V.text" = "Current printer";
+
+/* Class = "UIButton"; normalTitle = "打印"; ObjectID = "gQM-N4-tck"; */
+"gQM-N4-tck.normalTitle" = "Print";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "ptm-pR-r8W"; */
+"ptm-pR-r8W.text" = "0";
+
+/* Class = "UILabel"; text = "1"; ObjectID = "tgS-AE-6Sj"; */
+"tgS-AE-6Sj.text" = "1";
+
+/* Class = "UILabel"; text = "自动分页"; ObjectID = "tgk-9R-2Yt"; */
+"tgk-9R-2Yt.text" = "Auto paging";

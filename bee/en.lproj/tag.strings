@@ -1,0 +1,69 @@
+
+/* Class = "UIButton"; normalTitle = " "; ObjectID = "09Q-x9-taO"; */
+"09Q-x9-taO.normalTitle" = " ";
+
+/* Class = "UIButton"; normalTitle = " "; ObjectID = "22U-mO-xzf"; */
+"22U-mO-xzf.normalTitle" = " ";
+
+/* Class = "UILabel"; text = NSLocalizedString("标签尺寸：", comment: "标签尺寸："); ObjectID = "5ii-ec-lKg"; */
+"5ii-ec-lKg.text" = "Tag size：";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "9s2-jy-bcM"; */
+"9s2-jy-bcM.text" = "Title";
+
+/* Class = "UILabel"; text = "300mmx300mm"; ObjectID = "Hg5-Fw-pzr"; */
+"Hg5-Fw-pzr.text" = "300mmx300mm";
+
+/* Class = "UILabel"; text = NSLocalizedString("打印方向：未知", comment: "打印方向：未知"); ObjectID = "LPf-jx-kYM"; */
+"LPf-jx-kYM.text" = "Print direction：unkown";
+
+/* Class = "UIButton"; normalTitle = " "; ObjectID = "MVT-ab-Pzy"; */
+"MVT-ab-Pzy.normalTitle" = " ";
+
+/* Class = "UIButton"; selectedTitle = NSLocalizedString("仅自己可见", comment: "仅自己可见"); ObjectID = "MVT-ab-Pzy"; */
+"MVT-ab-Pzy.selectedTitle" = "Only visible to myself";
+
+/* Class = "UITableViewController"; title = NSLocalizedString("标签列表", comment: "标签列表"); ObjectID = "Q90-5x-6nu"; */
+"Q90-5x-6nu.title" = "Tag List";
+
+/* Class = "UIButton"; normalTitle = " "; ObjectID = "UGT-mv-U5M"; */
+"UGT-mv-U5M.normalTitle" = " ";
+
+/* Class = "UILabel"; text = NSLocalizedString("标签名称：", comment: "标签名称："); ObjectID = "ZyO-a6-i9j"; */
+"ZyO-a6-i9j.text" = "Tag name：";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "ae3-iq-QZf"; */
+"ae3-iq-QZf.text" = "Title";
+
+/* Class = "UILabel"; text = NSLocalizedString("纸张间隔：未知", comment: "纸张间隔：未知"); ObjectID = "bpn-zQ-g9j"; */
+"bpn-zQ-g9j.text" = "Page interval：unkown";
+
+/* Class = "UIButton"; normalTitle = " "; ObjectID = "clx-uU-BK7"; */
+"clx-uU-BK7.normalTitle" = " ";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "d6h-1C-TwM"; */
+"d6h-1C-TwM.text" = "Title";
+
+/* Class = "UIViewController"; title = NSLocalizedString("模板库", comment: "模板库"); ObjectID = "pey-7t-dqW"; */
+"pey-7t-dqW.title" = "Template library";
+
+/* Class = "UIViewController"; title = NSLocalizedString("标签详情", comment: "标签详情"); ObjectID = "ptW-Pl-kOD"; */
+"ptW-Pl-kOD.title" = "Tag detail";
+
+/* Class = "UILabel"; text = "300x300"; ObjectID = "r97-5Y-OdB"; */
+"r97-5Y-OdB.text" = "300x300";
+
+/* Class = "UILabel"; text = NSLocalizedString("保存时间：未知", comment: "保存时间：未知"); ObjectID = "tLg-S9-Umr"; */
+"tLg-S9-Umr.text" = "Save at：unkown";
+
+/* Class = "UIButton"; normalTitle = " "; ObjectID = "tnf-tJ-uCV"; */
+"tnf-tJ-uCV.normalTitle" = " ";
+
+/* Class = "UIButton"; selectedTitle = NSLocalizedString("收藏", comment: "收藏"); ObjectID = "tnf-tJ-uCV"; */
+"tnf-tJ-uCV.selectedTitle" = "Fav";
+
+/* Class = "UIButton"; normalTitle = " "; ObjectID = "y6T-KA-Ajs"; */
+"y6T-KA-Ajs.normalTitle" = " ";
+
+/* Class = "UIButton"; normalTitle = " "; ObjectID = "yx9-bm-AOj"; */
+"yx9-bm-AOj.normalTitle" = " ";

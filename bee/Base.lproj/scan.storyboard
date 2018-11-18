@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="14313.18" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="jzd-Cp-DMI">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14283.14"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--Scan View Controller-->
+        <scene sceneID="jnM-C6-WHk">
+            <objects>
+                <viewController id="jzd-Cp-DMI" customClass="ScanViewController" customModule="bee" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="Z2H-Vk-usu">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="IIA-2c-eyy">
+                                <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                                <color key="backgroundColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                            </view>
+                            <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="neg-mp-yLt">
+                                <rect key="frame" x="0.0" y="0.0" width="375" height="164"/>
+                                <color key="backgroundColor" white="0.0" alpha="0.80000000000000004" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                            </view>
+                            <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="i7Y-Ba-49i">
+                                <rect key="frame" x="0.0" y="164" width="37.5" height="300"/>
+                                <color key="backgroundColor" white="0.0" alpha="0.80000000000000004" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                            </view>
+                            <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="OY2-aE-cdk">
+                                <rect key="frame" x="37.5" y="164" width="300" height="300"/>
+                                <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" secondItem="OY2-aE-cdk" secondAttribute="height" multiplier="1:1" id="hWH-zc-bSf"/>
+                                </constraints>
+                            </view>
+                            <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="4wZ-an-Cyf">
+                                <rect key="frame" x="337.5" y="164" width="37.5" height="300"/>
+                                <color key="backgroundColor" white="0.0" alpha="0.80000000000000004" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                            </view>
+                            <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="oP4-66-bCl">
+                                <rect key="frame" x="0.0" y="464" width="375" height="203"/>
+                                <color key="backgroundColor" white="0.0" alpha="0.80000000000000004" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                            </view>
+                        </subviews>
+                        <color key="backgroundColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <constraints>
+                            <constraint firstAttribute="trailing" secondItem="IIA-2c-eyy" secondAttribute="trailing" id="3eq-ON-UgC"/>
+                            <constraint firstItem="4wZ-an-Cyf" firstAttribute="top" secondItem="i7Y-Ba-49i" secondAttribute="top" id="4Ge-Uz-BI8"/>
+                            <constraint firstItem="oP4-66-bCl" firstAttribute="bottom" secondItem="IIA-2c-eyy" secondAttribute="bottom" id="8co-KR-pKp"/>
+                            <constraint firstItem="oP4-66-bCl" firstAttribute="top" secondItem="i7Y-Ba-49i" secondAttribute="bottom" id="BW3-2J-Nil"/>
+                            <constraint firstItem="neg-mp-yLt" firstAttribute="trailing" secondItem="IIA-2c-eyy" secondAttribute="trailing" id="BuG-RU-F8J"/>
+                            <constraint firstItem="4wZ-an-Cyf" firstAttribute="bottom" secondItem="i7Y-Ba-49i" secondAttribute="bottom" id="C6T-Rv-iZ6"/>
+                            <constraint firstItem="4wZ-an-Cyf" firstAttribute="leading" secondItem="OY2-aE-cdk" secondAttribute="trailing" id="DeQ-bl-Vgl"/>
+                            <constraint firstItem="4wZ-an-Cyf" firstAttribute="trailing" secondItem="IIA-2c-eyy" secondAttribute="trailing" id="FwU-Zf-qgY"/>
+                            <constraint firstItem="neg-mp-yLt" firstAttribute="leading" secondItem="IIA-2c-eyy" secondAttribute="leading" id="GDH-Gb-Zib"/>
+                            <constraint firstItem="OY2-aE-cdk" firstAttribute="centerX" secondItem="2eF-A3-QsR" secondAttribute="centerX" id="Swo-MX-7IW"/>
+                            <constraint firstItem="OY2-aE-cdk" firstAttribute="leading" secondItem="2eF-A3-QsR" secondAttribute="leading" constant="37.5" id="Tfh-xE-ei8"/>
+                            <constraint firstItem="i7Y-Ba-49i" firstAttribute="leading" secondItem="IIA-2c-eyy" secondAttribute="leading" id="VY1-Zn-983"/>
+                            <constraint firstAttribute="bottom" secondItem="IIA-2c-eyy" secondAttribute="bottom" id="Wvj-mr-vPQ"/>
+                            <constraint firstItem="IIA-2c-eyy" firstAttribute="leading" secondItem="Z2H-Vk-usu" secondAttribute="leading" id="Zp8-dQ-Cmn"/>
+                            <constraint firstItem="OY2-aE-cdk" firstAttribute="leading" secondItem="i7Y-Ba-49i" secondAttribute="trailing" id="fFE-eO-Krv"/>
+                            <constraint firstItem="oP4-66-bCl" firstAttribute="top" secondItem="OY2-aE-cdk" secondAttribute="bottom" id="fK0-OM-Rod"/>
+                            <constraint firstItem="oP4-66-bCl" firstAttribute="leading" secondItem="IIA-2c-eyy" secondAttribute="leading" id="gQT-Y3-LIh"/>
+                            <constraint firstItem="OY2-aE-cdk" firstAttribute="top" secondItem="2eF-A3-QsR" secondAttribute="top" constant="100" id="l3r-GZ-Qc5"/>
+                            <constraint firstItem="OY2-aE-cdk" firstAttribute="top" secondItem="neg-mp-yLt" secondAttribute="bottom" id="o8Q-Zy-tkF"/>
+                            <constraint firstItem="i7Y-Ba-49i" firstAttribute="top" secondItem="neg-mp-yLt" secondAttribute="bottom" id="pyV-Nj-2q4"/>
+                            <constraint firstItem="2eF-A3-QsR" firstAttribute="trailing" secondItem="OY2-aE-cdk" secondAttribute="trailing" constant="37.5" id="q6R-cl-2ee"/>
+                            <constraint firstItem="neg-mp-yLt" firstAttribute="top" secondItem="IIA-2c-eyy" secondAttribute="top" id="vF9-Tz-p7Y"/>
+                            <constraint firstItem="oP4-66-bCl" firstAttribute="trailing" secondItem="IIA-2c-eyy" secondAttribute="trailing" id="vxk-WO-WBe"/>
+                            <constraint firstItem="IIA-2c-eyy" firstAttribute="top" secondItem="Z2H-Vk-usu" secondAttribute="top" id="zib-ok-RR2"/>
+                        </constraints>
+                        <viewLayoutGuide key="safeArea" id="2eF-A3-QsR"/>
+                    </view>
+                    <navigationItem key="navigationItem" id="g4V-bO-Q2O">
+                        <barButtonItem key="leftBarButtonItem" style="plain" id="H5u-q2-dZd">
+                            <button key="customView" opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" id="HbA-3w-GWY">
+                                <rect key="frame" x="16" y="11" width="20" height="22"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <state key="normal" image="close"/>
+                                <connections>
+                                    <action selector="pop" destination="jzd-Cp-DMI" eventType="touchUpInside" id="Yy6-dG-bOc"/>
+                                </connections>
+                            </button>
+                        </barButtonItem>
+                        <rightBarButtonItems>
+                            <barButtonItem width="53" style="plain" id="C2Y-eM-UDy">
+                                <button key="customView" opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" id="802-OI-LpM">
+                                    <rect key="frame" x="306" y="11" width="53" height="22"/>
+                                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                    <state key="normal" image="flash-off"/>
+                                    <state key="disabled" image="flash-off"/>
+                                    <state key="selected" image="flash"/>
+                                    <connections>
+                                        <action selector="toggleFlashWithSender:" destination="jzd-Cp-DMI" eventType="touchUpInside" id="joA-Wt-fTq"/>
+                                    </connections>
+                                </button>
+                            </barButtonItem>
+                            <barButtonItem style="plain" id="sWW-Wv-vag">
+                                <button key="customView" opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" id="KDH-iM-B9S">
+                                    <rect key="frame" x="245" y="11" width="53" height="22"/>
+                                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                    <state key="normal" image="pic"/>
+                                    <connections>
+                                        <action selector="readImage" destination="jzd-Cp-DMI" eventType="touchUpInside" id="ipb-Fq-rKU"/>
+                                    </connections>
+                                </button>
+                            </barButtonItem>
+                        </rightBarButtonItems>
+                    </navigationItem>
+                    <simulatedNavigationBarMetrics key="simulatedTopBarMetrics" prompted="NO"/>
+                    <connections>
+                        <outlet property="flashButton" destination="802-OI-LpM" id="xXx-Wi-hbf"/>
+                        <outlet property="videoPreview" destination="IIA-2c-eyy" id="KLI-qZ-odc"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="0z4-RD-Hal" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="125.59999999999999" y="113.79310344827587"/>
+        </scene>
+    </scenes>
+    <resources>
+        <image name="close" width="20" height="20"/>
+        <image name="flash" width="22" height="22"/>
+        <image name="flash-off" width="22" height="22"/>
+        <image name="pic" width="22" height="22"/>
+    </resources>
+</document>

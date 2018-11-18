@@ -1,0 +1,681 @@
+
+/* Class = "UILabel"; text = "0"; ObjectID = "03c-xm-juo"; */
+"03c-xm-juo.text" = "0";
+
+/* Class = "UILabel"; text = "value"; ObjectID = "056-5u-Z4d"; */
+"056-5u-Z4d.text" = "value";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "0CP-92-Lhb"; */
+"0CP-92-Lhb.text" = "0";
+
+/* Class = "UIButton"; normalTitle = "文本属性"; ObjectID = "0Sh-jY-q7b"; */
+"0Sh-jY-q7b.normalTitle" = "Text properties";
+
+/* Class = "UIButton"; normalTitle = "重新上传"; ObjectID = "0c5-ca-hY8"; */
+"0c5-ca-hY8.normalTitle" = "Re upload";
+
+/* Class = "UIButton"; normalTitle = "4"; ObjectID = "0w0-Mc-9Pz"; */
+"0w0-Mc-9Pz.normalTitle" = "4";
+
+/* Class = "UILabel"; text = "1-20个字"; ObjectID = "14t-wP-EEU"; */
+"14t-wP-EEU.text" = "1-20 words";
+
+/* Class = "UILabel"; text = "对齐"; ObjectID = "1Fr-dY-5iE"; */
+"1Fr-dY-5iE.text" = "Alignment";
+
+/* Class = "UILabel"; text = "打印方向"; ObjectID = "1lN-ae-nPf"; */
+"1lN-ae-nPf.text" = "Print direction";
+
+/* Class = "UIButton"; normalTitle = "单选"; ObjectID = "1xP-Sp-JvN"; */
+"1xP-Sp-JvN.normalTitle" = "Single choice";
+
+/* Class = "UIButton"; normalTitle = "内容"; ObjectID = "1zD-do-oMK"; */
+"1zD-do-oMK.normalTitle" = "Content";
+
+/* Class = "UIButton"; normalTitle = "左对齐"; ObjectID = "2Hh-lm-fcy"; */
+"2Hh-lm-fcy.normalTitle" = "Align left";
+
+/* Class = "UIButton"; normalTitle = "旋转角度"; ObjectID = "4IY-eO-7SR"; */
+"4IY-eO-7SR.normalTitle" = "Rotate angel";
+
+/* Class = "UIButton"; normalTitle = "打开"; ObjectID = "4eU-yq-yYr"; */
+"4eU-yq-yYr.normalTitle" = "Open";
+
+/* Class = "UIButton"; normalTitle = "扫描输入"; ObjectID = "4oM-oS-cTt"; */
+"4oM-oS-cTt.normalTitle" = "Scan to input";
+
+/* Class = "UILabel"; text = "距左距离"; ObjectID = "4zc-Rj-TRx"; */
+"4zc-Rj-TRx.text" = "Left";
+
+/* Class = "UIButton"; normalTitle = "2"; ObjectID = "5Yc-ZA-AzZ"; */
+"5Yc-ZA-AzZ.normalTitle" = "2";
+
+/* Class = "UIButton"; normalTitle = "标签"; ObjectID = "5Zk-9V-HnO"; */
+"5Zk-9V-HnO.normalTitle" = "Tag";
+
+/* Class = "UIButton"; normalTitle = "90°"; ObjectID = "6BR-UC-wNo"; */
+"6BR-UC-wNo.normalTitle" = "90°";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "6KL-xC-hIS"; */
+"6KL-xC-hIS.text" = "Title";
+
+/* Class = "UILabel"; text = "行间距"; ObjectID = "6o6-kn-Uk1"; */
+"6o6-kn-Uk1.text" = "Line space";
+
+/* Class = "UIButton"; normalTitle = "实线"; ObjectID = "6tw-wL-88T"; */
+"6tw-wL-88T.normalTitle" = "Solid line";
+
+/* Class = "UIButton"; normalTitle = "连续纸"; ObjectID = "7He-0A-e7c"; */
+"7He-0A-e7c.normalTitle" = "Continuous paper";
+
+/* Class = "UIButton"; normalTitle = "其他属性"; ObjectID = "7bh-sz-H3l"; */
+"7bh-sz-H3l.normalTitle" = "Other properties";
+
+/* Class = "UITextField"; text = "01"; ObjectID = "8G1-ad-UxJ"; */
+"8G1-ad-UxJ.text" = "01";
+
+/* Class = "UIButton"; normalTitle = "新建"; ObjectID = "8LP-jZ-Qdi"; */
+"8LP-jZ-Qdi.normalTitle" = "New";
+
+/* Class = "UILabel"; text = "粗体"; ObjectID = "8SY-Bi-9n1"; */
+"8SY-Bi-9n1.text" = "Bold";
+
+/* Class = "UILabel"; text = "相同垂直居中"; ObjectID = "8nU-tx-RDV"; */
+"8nU-tx-RDV.text" = "Same verical center";
+
+/* Class = "UIButton"; normalTitle = "内部填充"; ObjectID = "90z-e5-UQa"; */
+"90z-e5-UQa.normalTitle" = "Fill";
+
+/* Class = "UIButton"; normalTitle = "0"; ObjectID = "91h-Tb-wfe"; */
+"91h-Tb-wfe.normalTitle" = "0";
+
+/* Class = "UITableViewController"; title = "Excel 列表"; ObjectID = "9LH-MP-Idm"; */
+"9LH-MP-Idm.title" = "Excel List";
+
+/* Class = "UIButton"; normalTitle = "其他属性"; ObjectID = "ALw-L2-yK8"; */
+"ALw-L2-yK8.normalTitle" = "Other Properties";
+
+/* Class = "UIButton"; normalTitle = "内容"; ObjectID = "AUT-xz-L9t"; */
+"AUT-xz-L9t.normalTitle" = "Content";
+
+/* Class = "UIButton"; normalTitle = "直接输入"; ObjectID = "Aaf-Wb-Aml"; */
+"Aaf-Wb-Aml.normalTitle" = "Input";
+
+/* Class = "UIButton"; normalTitle = "黑标纸"; ObjectID = "B9d-K6-yd3"; */
+"B9d-K6-yd3.normalTitle" = "Black label paper";
+
+/* Class = "UILabel"; text = "相同水平居中"; ObjectID = "BAP-Bo-tei"; */
+"BAP-Bo-tei.text" = "Same verical center";
+
+/* Class = "UIButton"; normalTitle = "属性"; ObjectID = "BRZ-83-tN1"; */
+"BRZ-83-tN1.normalTitle" = "Properties";
+
+/* Class = "UIButton"; normalTitle = "位置"; ObjectID = "BrT-So-cmP"; */
+"BrT-So-cmP.normalTitle" = "Location";
+
+/* Class = "UIButton"; normalTitle = "打印"; ObjectID = "CDU-4H-tNQ"; */
+"CDU-4H-tNQ.normalTitle" = "Print";
+
+/* Class = "UIButton"; normalTitle = "递增量"; ObjectID = "CHK-0r-5Te"; */
+"CHK-0r-5Te.normalTitle" = "Increasement";
+
+/* Class = "UIButton"; normalTitle = "Excel 数据"; ObjectID = "CVT-3M-Jiv"; */
+"CVT-3M-Jiv.normalTitle" = "Excel Data";
+
+/* Class = "UILabel"; text = "水平方向偏移"; ObjectID = "Cv7-nF-uNA"; */
+"Cv7-nF-uNA.text" = "Horizonal offset";
+
+/* Class = "UILabel"; text = "距左距离"; ObjectID = "DdS-aU-AkP"; */
+"DdS-aU-AkP.text" = "Left";
+
+/* Class = "UIButton"; normalTitle = "位置"; ObjectID = "Dv4-Wg-L3n"; */
+"Dv4-Wg-L3n.normalTitle" = "Location";
+
+/* Class = "UIButton"; normalTitle = "图片"; ObjectID = "E01-rG-n3g"; */
+"E01-rG-n3g.normalTitle" = "Image";
+
+/* Class = "UIButton"; normalTitle = "字体"; ObjectID = "EAs-Mg-Vnf"; */
+"EAs-Mg-Vnf.normalTitle" = "Font";
+
+/* Class = "UILabel"; normalTitle = "字体"; ObjectID = "bFW-U9-jWX"; */
+"bFW-U9-jWX.text" = "Font";
+
+/* Class = "UIButton"; normalTitle = "保存到我的"; ObjectID = "EMt-uo-5lW"; */
+"EMt-uo-5lW.normalTitle" = "Save to mine";
+
+/* Class = "UIButton"; normalTitle = "无文字"; ObjectID = "Eaj-YO-tPH"; */
+"Eaj-YO-tPH.normalTitle" = "No text";
+
+/* Class = "UIButton"; normalTitle = "递增量"; ObjectID = "EbU-Xg-WaE"; */
+"EbU-Xg-WaE.normalTitle" = "Increasement";
+
+/* Class = "UIButton"; normalTitle = "其他属性"; ObjectID = "EhA-1b-omI"; */
+"EhA-1b-omI.normalTitle" = "Other properties";
+
+/* Class = "UILabel"; text = "锁定"; ObjectID = "Fjl-VQ-Jue"; */
+"Fjl-VQ-Jue.text" = "Lock";
+
+/* Class = "UIButton"; normalTitle = "向下"; ObjectID = "G8M-Ea-bNF"; */
+"G8M-Ea-bNF.normalTitle" = "Down";
+
+/* Class = "UILabel"; text = "数据表"; ObjectID = "GZI-j6-iuL"; */
+"GZI-j6-iuL.text" = "Worksheet";
+
+/* Class = "UIButton"; normalTitle = "向右"; ObjectID = "HNP-4y-fTz"; */
+"HNP-4y-fTz.normalTitle" = "Right";
+
+/* Class = "UILabel"; text = "行数"; ObjectID = "Hlr-Ux-4Kk"; */
+"Hlr-Ux-4Kk.text" = "Lines";
+
+/* Class = "UIButton"; normalTitle = "插入"; ObjectID = "Hxx-cb-fnv"; */
+"Hxx-cb-fnv.normalTitle" = "Insert";
+
+/* Class = "UILabel"; text = "参与打印"; ObjectID = "I2h-TO-7vR"; */
+"I2h-TO-7vR.text" = "Printable";
+
+/* Class = "UILabel"; text = "(随打印机设置)"; ObjectID = "IBD-Ci-jT4"; */
+"IBD-Ci-jT4.text" = "(As printer setting)";
+
+/* Class = "UIButton"; normalTitle = "下对齐"; ObjectID = "IK3-zT-FaV"; */
+"IK3-zT-FaV.normalTitle" = "Stretch";
+
+/* Class = "UILabel"; text = "value"; ObjectID = "Ixz-aK-6Ba"; */
+"Ixz-aK-6Ba.text" = "value";
+
+/* Class = "UIButton"; normalTitle = "180°"; ObjectID = "JU9-W2-g9g"; */
+"JU9-W2-g9g.normalTitle" = "180°";
+
+/* Class = "UIButton"; normalTitle = "颜色模式"; ObjectID = "JZZ-oL-fMk"; */
+"JZZ-oL-fMk.normalTitle" = "Color mode";
+
+/* Class = "UIButton"; normalTitle = "间隙纸"; ObjectID = "JZb-Lz-gQ0"; */
+"JZb-Lz-gQ0.normalTitle" = "Interval paper";
+
+/* Class = "UIButton"; normalTitle = "上对齐"; ObjectID = "KAT-w5-Yo1"; */
+"KAT-w5-Yo1.normalTitle" = "Align top";
+
+/* Class = "UIButton"; normalTitle = "二维码"; ObjectID = "KpJ-8q-9QS"; */
+"KpJ-8q-9QS.normalTitle" = "QR Code";
+
+/* Class = "UILabel"; text = "无"; ObjectID = "Krn-cN-uHz"; */
+"Krn-cN-uHz.text" = "no";
+
+/* Class = "UIButton"; normalTitle = "平铺"; ObjectID = "LTa-Sn-pfe"; */
+"LTa-Sn-pfe.normalTitle" = "Fill";
+
+/* Class = "UILabel"; text = "字间隔"; ObjectID = "LUK-rS-zFj"; */
+"LUK-rS-zFj.text" = "Word spacing";
+
+/* Class = "UIButton"; normalTitle = "居中"; ObjectID = "Lbp-94-TZn"; */
+"Lbp-94-TZn.normalTitle" = "Center";
+
+/* Class = "UIButton"; normalTitle = "0°"; ObjectID = "M9w-lY-yDA"; */
+"M9w-lY-yDA.normalTitle" = "0°";
+
+/* Class = "UILabel"; text = "300mm"; ObjectID = "MAf-WM-MGL"; */
+"MAf-WM-MGL.text" = "300mm";
+
+/* Class = "UIButton"; normalTitle = "旋转角度"; ObjectID = "MKu-9O-Fwz"; */
+"MKu-9O-Fwz.normalTitle" = "Rotate angel";
+
+/* Class = "UILabel"; text = "距上距离"; ObjectID = "MLs-gv-VvG"; */
+"MLs-gv-VvG.text" = "Top";
+
+/* Class = "UILabel"; text = "水平位置居中"; ObjectID = "MSw-zm-kLg"; */
+"MSw-zm-kLg.text" = "Horizonal center";
+
+/* Class = "UIButton"; normalTitle = "一维码"; ObjectID = "MTP-mL-4ni"; */
+"MTP-mL-4ni.normalTitle" = "Bar code";
+
+/* Class = "UIButton"; normalTitle = "  创建"; ObjectID = "Mu9-EQ-0pb"; */
+"Mu9-EQ-0pb.normalTitle" = "  create";
+
+/* Class = "UILabel"; text = "value"; ObjectID = "NLv-Vj-K26"; */
+"NLv-Vj-K26.text" = "value";
+
+/* Class = "UILabel"; text = "未选择"; ObjectID = "OCm-P5-FJp"; */
+"OCm-P5-FJp.text" = "No choice";
+
+/* Class = "UIButton"; normalTitle = "其他属性"; ObjectID = "QAi-PA-Q5U"; */
+"QAi-PA-Q5U.normalTitle" = "Other properties";
+
+/* Class = "UIButton"; normalTitle = "字体"; ObjectID = "Qnt-vX-6nJ"; */
+"Qnt-vX-6nJ.normalTitle" = "Font";
+
+/* Class = "UILabel"; text = "字体大小"; ObjectID = "QuI-kZ-Ior"; */
+"QuI-kZ-Ior.text" = "Font size";
+
+/* Class = "UIButton"; normalTitle = "退出"; ObjectID = "RCK-Ud-lqv"; */
+"RCK-Ud-lqv.normalTitle" = "Exit";
+
+/* Class = "UIButton"; normalTitle = "半色调"; ObjectID = "RIJ-QY-x0Q"; */
+"RIJ-QY-x0Q.normalTitle" = "Half color";
+
+/* Class = "UILabel"; text = "日期格式"; ObjectID = "RSx-90-wrH"; */
+"RSx-90-wrH.text" = "Day formatter";
+
+/* Class = "UIButton"; normalTitle = "右对齐"; ObjectID = "SDU-Ly-YOo"; */
+"SDU-Ly-YOo.normalTitle" = "Align right";
+
+/* Class = "UIButton"; normalTitle = "旋转角度"; ObjectID = "SLX-Cq-aw7"; */
+"SLX-Cq-aw7.normalTitle" = "Rotate angel";
+
+/* Class = "UILabel"; text = "创建标签"; ObjectID = "SwE-eB-qwv"; */
+"SwE-eB-qwv.text" = "Create tag";
+
+/* Class = "UITableViewController"; title = "图标"; ObjectID = "TBn-ZB-nze"; */
+"TBn-ZB-nze.title" = "Icon";
+
+/* Class = "UIButton"; normalTitle = "180°"; ObjectID = "TCY-Ka-9gg"; */
+"TCY-Ka-9gg.normalTitle" = "180°";
+
+/* Class = "UIButton"; normalTitle = "确定"; ObjectID = "Try-8I-XpY"; */
+"Try-8I-XpY.normalTitle" = "Confirm";
+
+/* Class = "UILabel"; text = "镜像模式"; ObjectID = "U73-SQ-wIr"; */
+"U73-SQ-wIr.text" = "Mirror mode";
+
+/* Class = "UIButton"; normalTitle = "位置"; ObjectID = "UA5-vp-OCL"; */
+"UA5-vp-OCL.normalTitle" = "Location";
+
+/* Class = "UIButton"; normalTitle = "虚线"; ObjectID = "UDA-m0-DJp"; */
+"UDA-m0-DJp.normalTitle" = "Imaginary line";
+
+/* Class = "UIButton"; normalTitle = "其他属性"; ObjectID = "UGl-cy-8a3"; */
+"UGl-cy-8a3.normalTitle" = "Other properties";
+
+/* Class = "UIButton"; normalTitle = "其他属性"; ObjectID = "UmU-dv-hgk"; */
+"UmU-dv-hgk.normalTitle" = "Other properties";
+
+/* Class = "UILabel"; text = "value"; ObjectID = "UrW-R5-f3Q"; */
+"UrW-R5-f3Q.text" = "value";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "V4E-N3-mO2"; */
+"V4E-N3-mO2.text" = "0";
+
+/* Class = "UILabel"; text = "垂直方向偏移"; ObjectID = "V8p-C5-fFv"; */
+"V8p-C5-fFv.text" = "Verical offset";
+
+/* Class = "UILabel"; text = "value"; ObjectID = "WUp-UJ-0hw"; */
+"WUp-UJ-0hw.text" = "value";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "WWo-p3-hAb"; */
+"WWo-p3-hAb.text" = "Title";
+
+/* Class = "UILabel"; text = "标签名称"; ObjectID = "WY2-po-x7G"; */
+"WY2-po-x7G.text" = "Tag name";
+
+/* Class = "UILabel"; text = "日期偏移"; ObjectID = "WoR-Bh-0vc"; */
+"WoR-Bh-0vc.text" = "Day offset";
+
+/* Class = "UIButton"; normalTitle = "线条宽度"; ObjectID = "X3F-Qa-QmM"; */
+"X3F-Qa-QmM.normalTitle" = "Line width";
+
+/* Class = "UIButton"; normalTitle = "向上"; ObjectID = "X7s-uz-xt2"; */
+"X7s-uz-xt2.normalTitle" = "Up";
+
+/* Class = "UIButton"; normalTitle = "90°"; ObjectID = "XJd-x6-d2u"; */
+"XJd-x6-d2u.normalTitle" = "90°";
+
+/* Class = "UILabel"; text = "yyyy年MM月dd日"; ObjectID = "Y40-k7-Qz0"; */
+"Y40-k7-Qz0.text" = "yyyy年MM月dd日";
+
+/* Class = "UILabel"; text = "列"; ObjectID = "YCa-oe-RQt"; */
+"YCa-oe-RQt.text" = "Column";
+
+/* Class = "UILabel"; text = "尾巴指向"; ObjectID = "YRt-Gm-84u"; */
+"YRt-Gm-84u.text" = "Tail direction";
+
+/* Class = "UILabel"; text = "纠错"; ObjectID = "YWR-kG-Sb1"; */
+"YWR-kG-Sb1.text" = "Correction";
+
+/* Class = "UIButton"; normalTitle = "多选"; ObjectID = "YdA-7J-YRW"; */
+"YdA-7J-YRW.normalTitle" = "Multiply choice";
+
+/* Class = "UILabel"; text = "编码模式"; ObjectID = "YdS-M0-hub"; */
+"YdS-M0-hub.text" = "Encode mode";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "YhP-CU-478"; */
+"YhP-CU-478.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "锁定"; ObjectID = "Z6v-qk-tH7"; */
+"Z6v-qk-tH7.normalTitle" = "Lock";
+
+/* Class = "UIButton"; normalTitle = "右对齐"; ObjectID = "ZLV-r6-4ei"; */
+"ZLV-r6-4ei.normalTitle" = "Align right";
+
+/* Class = "UIButton"; normalTitle = "0°"; ObjectID = "ZSC-0T-YMb"; */
+"ZSC-0T-YMb.normalTitle" = "0°";
+
+/* Class = "UIButton"; normalTitle = "复制"; ObjectID = "Znu-83-1Su"; */
+"Znu-83-1Su.normalTitle" = "Copy";
+
+/* Class = "UILabel"; text = "灰度"; ObjectID = "Zs1-bd-JBR"; */
+"Zs1-bd-JBR.text" = "Grayscale";
+
+/* Class = "UIButton"; normalTitle = "时间格式"; ObjectID = "aus-Eh-DWH"; */
+"aus-Eh-DWH.normalTitle" = "Time formatter";
+
+/* Class = "UIButton"; normalTitle = "Excel 数据"; ObjectID = "bMn-el-pnO"; */
+"bMn-el-pnO.normalTitle" = "Excel Data";
+
+/* Class = "UILabel"; text = "旗形标签"; ObjectID = "bc4-gQ-eK2"; */
+"bc4-gQ-eK2.text" = "Flag";
+
+/* Class = "UILabel"; text = "自动换行"; ObjectID = "bdr-Fc-iCS"; */
+"bdr-Fc-iCS.text" = "Wordwrap";
+
+/* Class = "UIButton"; normalTitle = "图标"; ObjectID = "bgB-Ln-VTf"; */
+"bgB-Ln-VTf.normalTitle" = "Icon";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "bij-Pj-LaO"; */
+"bij-Pj-LaO.text" = "0";
+
+/* Class = "UIButton"; normalTitle = "其他属性"; ObjectID = "bs5-Tf-f6w"; */
+"bs5-Tf-f6w.normalTitle" = "Other properties";
+
+/* Class = "UILabel"; text = "水平位置居中"; ObjectID = "bsS-oU-mOr"; */
+"bsS-oU-mOr.text" = "Horizonal center";
+
+/* Class = "UIButton"; normalTitle = "时间"; ObjectID = "byf-Zw-9I3"; */
+"byf-Zw-9I3.normalTitle" = "Time";
+
+/* Class = "UILabel"; text = "value"; ObjectID = "bz0-xh-uAv"; */
+"bz0-xh-uAv.text" = "value";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "bzL-bq-tou"; */
+"bzL-bq-tou.text" = "0";
+
+/* Class = "UIButton"; normalTitle = "位置"; ObjectID = "cGS-Rg-KFr"; */
+"cGS-Rg-KFr.normalTitle" = "Location";
+
+/* Class = "UIButton"; normalTitle = "强"; ObjectID = "cMF-cc-C5h"; */
+"cMF-cc-C5h.normalTitle" = "Strong";
+
+/* Class = "UIButton"; normalTitle = "清除背景"; ObjectID = "cPW-Iu-nwK"; */
+"cPW-Iu-nwK.normalTitle" = "Clear background";
+
+/* Class = "UIButton"; normalTitle = "矩形"; ObjectID = "cdn-lT-kPm"; */
+"cdn-lT-kPm.normalTitle" = "Rect";
+
+/* Class = "UILabel"; text = "宽度"; ObjectID = "cig-4z-ti8"; */
+"cig-4z-ti8.text" = "Width";
+
+/* Class = "UILabel"; text = "标签宽度"; ObjectID = "cxx-38-klv"; */
+"cxx-38-klv.text" = "Tag width";
+
+/* Class = "UILabel"; text = "虚实间隔"; ObjectID = "dC7-Hn-7rW"; */
+"dC7-Hn-7rW.text" = "Dash";
+
+/* Class = "UIButton"; normalTitle = "位置"; ObjectID = "dMe-kN-BdS"; */
+"dMe-kN-BdS.normalTitle" = "Location";
+
+/* Class = "UIButton"; normalTitle = "左对齐"; ObjectID = "dNj-mh-54Y"; */
+"dNj-mh-54Y.normalTitle" = "Align left";
+
+/* Class = "UILabel"; text = "斜体"; ObjectID = "dbb-6s-b1i"; */
+"dbb-6s-b1i.text" = "Italic";
+
+/* Class = "UIButton"; normalTitle = "270°"; ObjectID = "dur-tO-8IO"; */
+"dur-tO-8IO.normalTitle" = "270°";
+
+/* Class = "UIButton"; normalTitle = "线条宽度"; ObjectID = "dvs-By-zmy"; */
+"dvs-By-zmy.normalTitle" = "Line width";
+
+/* Class = "UILabel"; text = "纸张间隔"; ObjectID = "egT-Ob-zQ8"; */
+"egT-Ob-zQ8.text" = "Paper interval";
+
+/* Class = "UIButton"; normalTitle = "拉伸"; ObjectID = "fMG-Nc-7SR"; */
+"fMG-Nc-7SR.normalTitle" = "Strech";
+
+/* Class = "UIButton"; normalTitle = "Excel 数据"; ObjectID = "fQ5-dw-yxK"; */
+"fQ5-dw-yxK.normalTitle" = "Excel Data";
+
+/* Class = "UIButton"; normalTitle = "放弃编辑"; ObjectID = "fgM-VI-fY9"; */
+"fgM-VI-fY9.normalTitle" = "Cancel";
+
+/* Class = "UIButton"; normalTitle = "递增量"; ObjectID = "fqW-IK-BJO"; */
+"fqW-IK-BJO.normalTitle" = "Incresement";
+
+/* Class = "UILabel"; text = "value"; ObjectID = "fwK-g3-XiK"; */
+"fwK-g3-XiK.text" = "value";
+
+/* Class = "UIButton"; normalTitle = "新建标签_1"; ObjectID = "g3N-a2-qMG"; */
+"g3N-a2-qMG.normalTitle" = "New_tag_1";
+
+/* Class = "UIButton"; normalTitle = "旋转角度"; ObjectID = "gJq-Ix-Fwi"; */
+"gJq-Ix-Fwi.normalTitle" = "Rotate angel";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "gOH-Ki-S0j"; */
+"gOH-Ki-S0j.text" = "0";
+
+/* Class = "UIButton"; normalTitle = "中"; ObjectID = "gVT-iP-rhA"; */
+"gVT-iP-rhA.normalTitle" = "Middle";
+
+/* Class = "UILabel"; text = "垂直位置居中"; ObjectID = "gYv-ez-1n6"; */
+"gYv-ez-1n6.text" = "Verical center";
+
+/* Class = "UILabel"; text = "(随打印机设置)"; ObjectID = "ggf-0d-ggz"; */
+"ggf-0d-ggz.text" = "(As printer setting)";
+
+/* Class = "UILabel"; text = "距上距离"; ObjectID = "h61-eF-STc"; */
+"h61-eF-STc.text" = "Top";
+
+/* Class = "UIButton"; normalTitle = "居中"; ObjectID = "hCb-ws-BBE"; */
+"hCb-ws-BBE.normalTitle" = "Center";
+
+/* Class = "UIButton"; normalTitle = "位置"; ObjectID = "hIE-rY-wxo"; */
+"hIE-rY-wxo.normalTitle" = "Location";
+
+/* Class = "UIButton"; normalTitle = "继续编辑"; ObjectID = "hNv-7s-gHZ"; */
+"hNv-7s-gHZ.normalTitle" = "Continue edit";
+
+/* Class = "UIButton"; normalTitle = "圆形"; ObjectID = "hb8-XQ-ucg"; */
+"hb8-XQ-ucg.normalTitle" = "Circle";
+
+/* Class = "UIButton"; normalTitle = "预览"; ObjectID = "hnL-8G-0bp"; */
+"hnL-8G-0bp.normalTitle" = "Preview";
+
+/* Class = "UIButton"; normalTitle = "下方"; ObjectID = "i0H-Vi-37L"; */
+"i0H-Vi-37L.normalTitle" = "Down";
+
+/* Class = "UIButton"; normalTitle = "线条"; ObjectID = "iNv-eA-zro"; */
+"iNv-eA-zro.normalTitle" = "Line";
+
+/* Class = "UIButton"; normalTitle = "表格"; ObjectID = "jGw-YX-CK6"; */
+"jGw-YX-CK6.normalTitle" = "Table";
+
+/* Class = "UILabel"; text = "文本位置"; ObjectID = "jIU-Sl-Ho8"; */
+"jIU-Sl-Ho8.text" = "Text location";
+
+/* Class = "UIButton"; normalTitle = "单选"; ObjectID = "jX8-Bt-OZT"; */
+"jX8-Bt-OZT.normalTitle" = "Single choice";
+
+/* Class = "UIButton"; selectedTitle = "多选"; ObjectID = "jX8-Bt-OZT"; */
+"jX8-Bt-OZT.selectedTitle" = "Multiply choice";
+
+/* Class = "UIButton"; normalTitle = "列数"; ObjectID = "k8R-sr-sTu"; */
+"k8R-sr-sTu.normalTitle" = "Column";
+
+/* Class = "UILabel"; text = "文本框宽度"; ObjectID = "kPp-Sc-hgt"; */
+"kPp-Sc-hgt.text" = "Text width";
+
+/* Class = "UILabel"; text = "0 天"; ObjectID = "kUp-wh-P8Y"; */
+"kUp-wh-P8Y.text" = "0 days";
+
+/* Class = "UILabel"; text = "value"; ObjectID = "kdY-Zg-6Do"; */
+"kdY-Zg-6Do.text" = "value";
+
+/* Class = "UIButton"; normalTitle = "另存"; ObjectID = "klC-Tq-BdI"; */
+"klC-Tq-BdI.normalTitle" = "Save as";
+
+/* Class = "UIButton"; normalTitle = "保存"; ObjectID = "ksm-iz-s3u"; */
+"ksm-iz-s3u.normalTitle" = "Save";
+
+/* Class = "UIButton"; normalTitle = "椭圆"; ObjectID = "lLE-K1-Gj3"; */
+"lLE-K1-Gj3.normalTitle" = "Ecllipse";
+
+/* Class = "UIViewController"; title = "新建标签"; ObjectID = "lbr-td-9SC"; */
+"lbr-td-9SC.title" = "New tag";
+
+/* Class = "UIButton"; normalTitle = "高"; ObjectID = "m73-fN-cK6"; */
+"m73-fN-cK6.normalTitle" = "Height";
+
+/* Class = "UIButton"; normalTitle = "其他"; ObjectID = "m7O-MP-RKZ"; */
+"m7O-MP-RKZ.normalTitle" = "Other";
+
+/* Class = "UILabel"; text = "标签高度"; ObjectID = "mCB-e9-Yqe"; */
+"mCB-e9-Yqe.text" = "Tag height";
+
+/* Class = "UILabel"; text = "value"; ObjectID = "mNM-6T-z0h"; */
+"mNM-6T-z0h.text" = "value";
+
+/* Class = "UILabel"; text = "未选择"; ObjectID = "mZI-tr-KaY"; */
+"mZI-tr-KaY.text" = "No choice";
+
+/* Class = "UILabel"; text = "间隔长度"; ObjectID = "mcp-XM-2kg"; */
+"mcp-XM-2kg.text" = "Interval length";
+
+/* Class = "UIButton"; normalTitle = "矩形"; ObjectID = "mkQ-ce-ASC"; */
+"mkQ-ce-ASC.normalTitle" = "Rect";
+
+/* Class = "UIButton"; normalTitle = "编码模式"; ObjectID = "nSc-hm-B3G"; */
+"nSc-hm-B3G.normalTitle" = "Encode mode";
+
+/* Class = "UILabel"; text = "空白区域"; ObjectID = "nc0-tr-OeU"; */
+"nc0-tr-OeU.text" = "Empty zone";
+
+/* Class = "UIButton"; normalTitle = "位置"; ObjectID = "oGQ-3v-f4Y"; */
+"oGQ-3v-f4Y.normalTitle" = "Location";
+
+/* Class = "UILabel"; text = "时间格式"; ObjectID = "obV-RB-oM1"; */
+"obV-RB-oM1.text" = "Time formatter";
+
+/* Class = "UIButton"; normalTitle = "二维码"; ObjectID = "p4L-Pe-Ih2"; */
+"p4L-Pe-Ih2.normalTitle" = "QR Code";
+
+/* Class = "UIButton"; normalTitle = "位置"; ObjectID = "pD2-Vc-TyX"; */
+"pD2-Vc-TyX.normalTitle" = "Location";
+
+/* Class = "UILabel"; text = "锁定"; ObjectID = "pMG-ae-I7v"; */
+"pMG-ae-I7v.text" = "Lock";
+
+/* Class = "UILabel"; text = "下划线"; ObjectID = "pVr-ZU-2i7"; */
+"pVr-ZU-2i7.text" = "Underline";
+
+/* Class = "UILabel"; text = "删除线"; ObjectID = "piT-9c-jRc"; */
+"piT-9c-jRc.text" = "Strike line";
+
+/* Class = "UIButton"; normalTitle = "旋转角度"; ObjectID = "qDP-K2-gP3"; */
+"qDP-K2-gP3.normalTitle" = "Rotate angel";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "qt4-FL-DfS"; */
+"qt4-FL-DfS.text" = "Title";
+
+/* Class = "UILabel"; text = "value"; ObjectID = "qwU-i8-CAl"; */
+"qwU-i8-CAl.text" = "value";
+
+/* Class = "UIButton"; normalTitle = "定位孔"; ObjectID = "qwc-xP-5sA"; */
+"qwc-xP-5sA.normalTitle" = "Location hole";
+
+/* Class = "UIButton"; normalTitle = "圆角矩形"; ObjectID = "rB8-Nl-juX"; */
+"rB8-Nl-juX.normalTitle" = "Rounded rect";
+
+/* Class = "UIButton"; normalTitle = "退出"; ObjectID = "rEa-y3-I1Z"; */
+"rEa-y3-I1Z.normalTitle" = "Exit";
+
+/* Class = "UIButton"; normalTitle = "低"; ObjectID = "rZ9-NJ-sjo"; */
+"rZ9-NJ-sjo.normalTitle" = "Low";
+
+/* Class = "UILabel"; text = "自动计算高度"; ObjectID = "raq-yC-2kE"; */
+"raq-yC-2kE.text" = "Automatic caculate height";
+
+/* Class = "UILabel"; text = "对齐"; ObjectID = "rlR-if-hnZ"; */
+"rlR-if-hnZ.text" = "Alignment";
+
+/* Class = "UIButton"; normalTitle = "旋转角度"; ObjectID = "rsI-sU-XI6"; */
+"rsI-sU-XI6.normalTitle" = "Rotate angel";
+
+/* Class = "UIButton"; normalTitle = "256 灰度"; ObjectID = "s0A-EP-IKN"; */
+"s0A-EP-IKN.normalTitle" = "256 grayscale";
+
+/* Class = "UILabel"; text = "Excel"; ObjectID = "s4T-Yo-DzS"; */
+"s4T-Yo-DzS.text" = "Excel";
+
+/* Class = "UILabel"; text = "打印速度"; ObjectID = "sAt-Y8-Ecx"; */
+"sAt-Y8-Ecx.text" = "Print speed";
+
+/* Class = "UIButton"; normalTitle = "其他属性"; ObjectID = "sC9-Io-vtZ"; */
+"sC9-Io-vtZ.normalTitle" = "Other properties";
+
+/* Class = "UIButton"; normalTitle = "字体"; ObjectID = "sD3-9i-tec"; */
+"sD3-9i-tec.normalTitle" = "Font";
+
+/* Class = "UIButton"; normalTitle = "270°"; ObjectID = "uae-IV-0gh"; */
+"uae-IV-0gh.normalTitle" = "270°";
+
+/* Class = "UIButton"; normalTitle = "文本"; ObjectID = "ucj-f4-pVq"; */
+"ucj-f4-pVq.normalTitle" = "Text";
+
+/* Class = "UILabel"; text = "背景图片"; ObjectID = "vII-Bq-Hdu"; */
+"vII-Bq-Hdu.text" = "Background image";
+
+/* Class = "UIButton"; normalTitle = "居中"; ObjectID = "vWO-lK-25n"; */
+"vWO-lK-25n.normalTitle" = "Center";
+
+/* Class = "UIButton"; normalTitle = "行数"; ObjectID = "vY8-UB-qgS"; */
+"vY8-UB-qgS.normalTitle" = "Lines";
+
+/* Class = "UIButton"; normalTitle = "位置"; ObjectID = "vcx-dO-YY2"; */
+"vcx-dO-YY2.normalTitle" = "Location";
+
+/* Class = "UIButton"; normalTitle = "旋转角度"; ObjectID = "vf3-hV-79j"; */
+"vf3-hV-79j.normalTitle" = "Rotate angel";
+
+/* Class = "UILabel"; text = "Category"; ObjectID = "vmm-cm-i0K"; */
+"vmm-cm-i0K.text" = "Category";
+
+/* Class = "UILabel"; text = "尾巴长度"; ObjectID = "wXh-et-jFn"; */
+"wXh-et-jFn.text" = "Tail length";
+
+/* Class = "UIButton"; normalTitle = "选择图片"; ObjectID = "wma-Gx-HXl"; */
+"wma-Gx-HXl.normalTitle" = "Select image";
+
+/* Class = "UIButton"; normalTitle = "黑白"; ObjectID = "wuo-XZ-Cz9"; */
+"wuo-XZ-Cz9.normalTitle" = "Black white";
+
+/* Class = "UILabel"; text = "空白区域"; ObjectID = "x1n-vy-Lop"; */
+"x1n-vy-Lop.text" = "Empty zone";
+
+/* Class = "UIButton"; normalTitle = "内容"; ObjectID = "xLu-TX-8HR"; */
+"xLu-TX-8HR.normalTitle" = "Content";
+
+/* Class = "UILabel"; text = "没有绑定背景图片"; ObjectID = "xYx-vD-cys"; */
+"xYx-vD-cys.text" = "No background image";
+
+/* Class = "UIButton"; normalTitle = "向左"; ObjectID = "xbm-98-sMm"; */
+"xbm-98-sMm.normalTitle" = "Left";
+
+/* Class = "UIButton"; normalTitle = "原图"; ObjectID = "y2S-sd-YBu"; */
+"y2S-sd-YBu.normalTitle" = "Original image";
+
+/* Class = "UILabel"; text = "value"; ObjectID = "y5h-dn-9ZR"; */
+"y5h-dn-9ZR.text" = "value";
+
+/* Class = "UILabel"; text = "垂直位置居中"; ObjectID = "yGI-Oa-5CX"; */
+"yGI-Oa-5CX.text" = "Verical center";
+
+/* Class = "UILabel"; text = "value"; ObjectID = "yPn-ok-Mqz"; */
+"yPn-ok-Mqz.text" = "value";
+
+/* Class = "UILabel"; text = "第1行高度"; ObjectID = "yaC-3s-Y5a"; */
+"yaC-3s-Y5a.text" = "Line 1 height";
+
+/* Class = "UILabel"; text = "未选择"; ObjectID = "zTB-9H-Vyz"; */
+"zTB-9H-Vyz.text" = "No choice";
+
+/* Class = "UIButton"; normalTitle = "上方"; ObjectID = "zeM-2J-g72"; */
+"zeM-2J-g72.normalTitle" = "Up";
+
+/* Class = "UILabel"; text = "打印浓度"; ObjectID = "zyy-Jh-kqb"; */
+"zyy-Jh-kqb.text" = "Print concentration";

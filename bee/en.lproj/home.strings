@@ -1,0 +1,42 @@
+
+/* Class = "UIButton"; normalTitle = NSLocalizedString("微信登录", comment: "微信登录"); ObjectID = "Avh-gx-PRe"; */
+"Avh-gx-PRe.normalTitle" = "Wechat";
+
+/* Class = "UILabel"; text = NSLocalizedString("必印", comment: "必印"); ObjectID = "Gjh-ab-zWW"; */
+"Gjh-ab-zWW.text" = "Beeprt";
+
+/* Class = "UIButton"; normalTitle = NSLocalizedString("QQ 登录", comment: "QQ 登录"); ObjectID = "IJT-wA-qxd"; */
+"IJT-wA-qxd.normalTitle" = "QQ";
+
+/* Class = "UILabel"; text = NSLocalizedString("其他登录方式", comment: "其他登录方式"); ObjectID = "W3d-NC-Xbt"; */
+"W3d-NC-Xbt.text" = "Other";
+
+/* Class = "UIButton"; normalTitle = NSLocalizedString("登 录", comment: "登 录"); ObjectID = "duh-B1-rbb"; */
+"duh-B1-rbb.normalTitle" = "Login";
+
+/* Class = "UITextField"; placeholder = NSLocalizedString("请输入手机号", comment: "请输入手机号"); ObjectID = "gPg-w4-39I"; */
+"gPg-w4-39I.placeholder" = "Please input telephone";
+
+/* Class = "UIButton"; normalTitle = NSLocalizedString("发送验证码", comment: "发送验证码"); ObjectID = "kPP-5X-9P0"; */
+"kPP-5X-9P0.normalTitle" = "Send verify code";
+
+/* Class = "UIButton"; normalTitle = NSLocalizedString("新建标签", comment: "新建标签"); ObjectID = "kUa-Zt-2sG"; */
+"kUa-Zt-2sG.normalTitle" = "New Tag";
+
+/* Class = "UITextField"; placeholder = NSLocalizedString("请输入验证码", comment: "请输入验证码"); ObjectID = "mtO-kT-qcU"; */
+"mtO-kT-qcU.placeholder" = "Please input verify code";
+
+/* Class = "UIButton"; normalTitle = NSLocalizedString("未连接到打印机？去连接", comment: "未连接到打印机？去连接"); ObjectID = "p62-ka-EGD"; */
+"p62-ka-EGD.normalTitle" = "No printer？go connect";
+
+/* Class = "UIButton"; selectedTitle = NSLocalizedString("已链接到打印机", comment: "已链接到打印机"); ObjectID = "p62-ka-EGD"; */
+"p62-ka-EGD.selectedTitle" = "Connected to printer";
+
+/* Class = "UIButton"; normalTitle = NSLocalizedString("新建", comment: "新建"); ObjectID = "u6c-hD-qgS"; */
+"u6c-hD-qgS.normalTitle" = "New";
+
+/* Class = "UIButton"; normalTitle = NSLocalizedString("模板", comment: "模板"); ObjectID = "vCl-Gf-XKT"; */
+"vCl-Gf-XKT.normalTitle" = "Templates";
+
+/* Class = "UIButton"; normalTitle = NSLocalizedString("从模板库中选择", comment: "从模板库中选择"); ObjectID = "wu8-0S-bwk"; */
+"wu8-0S-bwk.normalTitle" = "Choose from temlpates";

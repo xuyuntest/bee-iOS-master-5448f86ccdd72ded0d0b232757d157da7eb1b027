@@ -1,0 +1,60 @@
+PODS:
+  - Alamofire (4.7.2)
+  - AlamofireImage (3.3.1):
+    - Alamofire (~> 4.5)
+  - CryptoSwift (0.10.0)
+  - RSBarcodes_Swift (4.0.0)
+  - SnapKit (4.0.0)
+  - SSZipArchive (0.4.0)
+  - SVProgressHUD (2.2.5)
+  - WechatOpenSDK (1.8.2)
+  - XlsxReaderWriter (1.0.11):
+    - SSZipArchive (~> 0.4)
+    - XMLDictionary (~> 1.4)
+  - XMLDictionary (1.4.1)
+  - ZXingObjC (3.2.2):
+    - ZXingObjC/All (= 3.2.2)
+  - ZXingObjC/All (3.2.2)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.7.1)
+  - AlamofireImage (~> 3.3.1)
+  - CryptoSwift
+  - RSBarcodes_Swift
+  - SnapKit (~> 4.0)
+  - SSZipArchive (~> 0.4.0)
+  - SVProgressHUD
+  - WechatOpenSDK
+  - XlsxReaderWriter (~> 1.0)
+  - ZXingObjC
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - AlamofireImage
+    - CryptoSwift
+    - RSBarcodes_Swift
+    - SnapKit
+    - SSZipArchive
+    - SVProgressHUD
+    - WechatOpenSDK
+    - XlsxReaderWriter
+    - XMLDictionary
+    - ZXingObjC
+
+SPEC CHECKSUMS:
+  Alamofire: e4fa87002c137ba2d8d634d2c51fabcda0d5c223
+  AlamofireImage: 3b35b586853abaf94ca1250f4e94cff3c21a4c0d
+  CryptoSwift: 6c778d69282bed3b4e975ff97a79d074f20bb011
+  RSBarcodes_Swift: b3e9801f448f50439f77ce7d0aeeb7aa4e9ebb19
+  SnapKit: a42d492c16e80209130a3379f73596c3454b7694
+  SSZipArchive: d3d66fc0e3fb6ac0f723d95481aae71aae916cc3
+  SVProgressHUD: 1428aafac632c1f86f62aa4243ec12008d7a51d6
+  WechatOpenSDK: 676feec516a11173eafd1fe64b10d27babf28701
+  XlsxReaderWriter: 7e4c5c9fb7c4e78e4edc89fa11f50c086540277c
+  XMLDictionary: fa07b6ff422b3a91d47a5de9bc82e3fc04fbd167
+  ZXingObjC: 2c95a0dc52daac69b23ec78fad8fa2fec05f8981
+
+PODFILE CHECKSUM: 8d7f6cee7ecbad9bcf55de526bfa83b26bf169db
+
+COCOAPODS: 1.5.3
